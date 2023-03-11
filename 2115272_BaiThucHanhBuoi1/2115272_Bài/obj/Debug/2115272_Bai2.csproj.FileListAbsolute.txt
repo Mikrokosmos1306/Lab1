@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\bin\Debug\2115272_Bài.exe.config
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\bin\Debug\2115272_Bài.exe
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\bin\Debug\2115272_Bài.pdb
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bai2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\_2115272_Bài.Properties.Resources.resources
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bai2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bài.exe
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\2115272_Bài.pdb
+C:\Users\PC\Documents\Luyện tập\2115272_BaiThucHanhBuoi1\2115272_Bài\obj\Debug\_2115272_Bài.MainForm.resources

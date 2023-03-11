@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\bin\Debug\2115272_BaiTapThietKeForm.exe.config
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\bin\Debug\2115272_BaiTapThietKeForm.exe
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\bin\Debug\2115272_BaiTapThietKeForm.pdb
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\_2115272_BaiTapThietKeForm.FormChinh.resources
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\_2115272_BaiTapThietKeForm.FrmBai1.resources
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\_2115272_BaiTapThietKeForm.Properties.Resources.resources
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.exe
+C:\Users\PC\Documents\Luyện tập\2115272_BaiTapThietKeForm\2115272_BaiTapThietKeForm\obj\Debug\2115272_BaiTapThietKeForm.pdb
